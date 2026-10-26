@@ -1,0 +1,505 @@
+﻿year,accommodation_type,city_code,city,origin_continent,month,arrivals,arrivals_yoy_pct,overnight_stays,overnight_stays_yoy_pct,average_stay,month_number,date
+2020,Hotels,05334002,Aachen,Europa,Januar,17372,-5.8,25505,-8.6,1.5,1,2020-01-01
+2020,Hotels,05334002,Aachen,Europa,Februar,17784,1.2,26539,3.2,1.5,2,2020-02-01
+2020,Hotels,05334002,Aachen,Europa,März,7507,-65.1,11543,-65.5,1.5,3,2020-03-01
+2020,Hotels,05334002,Aachen,Europa,April,1327,-94.1,2626,-92.7,2.0,4,2020-04-01
+2020,Hotels,05334002,Aachen,Europa,Mai,3853,-84.9,6766,-83.0,1.8,5,2020-05-01
+2020,Hotels,05334002,Aachen,Europa,Juni,8884,-64.2,14249,-63.8,1.6,6,2020-06-01
+2020,Hotels,05334002,Aachen,Europa,Juli,14503,-43.8,23844,-43.8,1.6,7,2020-07-01
+2020,Hotels,05334002,Aachen,Europa,August,18457,-29.2,31412,-27.6,1.7,8,2020-08-01
+2020,Hotels,05334002,Aachen,Europa,September,15998,-38.8,25438,-36.7,1.6,9,2020-09-01
+2020,Hotels,05334002,Aachen,Europa,Oktober,11931,-51.6,20526,-46.6,1.7,10,2020-10-01
+2020,Hotels,05334002,Aachen,Europa,November,4692,-81.5,8916,-76.4,1.9,11,2020-11-01
+2020,Hotels,05334002,Aachen,Europa,Dezember,2670,-90.1,5247,-87.9,2.0,12,2020-12-01
+2020,Hotels,05334002,Aachen,Afrika,Januar,22,-15.4,27,-34.1,1.2,1,2020-01-01
+2020,Hotels,05334002,Aachen,Afrika,Februar,51,-22.7,88,-8.3,1.7,2,2020-02-01
+2020,Hotels,05334002,Aachen,Afrika,März,10,-82.5,16,-81.4,1.6,3,2020-03-01
+2020,Hotels,05334002,Aachen,Afrika,April,0,-100.0,0,-100.0,,4,2020-04-01
+2020,Hotels,05334002,Aachen,Afrika,Mai,3,-91.7,4,-94.7,1.3,5,2020-05-01
+2020,Hotels,05334002,Aachen,Afrika,Juni,1,-98.3,3,-97.6,3.0,6,2020-06-01
+2020,Hotels,05334002,Aachen,Afrika,Juli,3,-96.3,7,-97.7,2.3,7,2020-07-01
+2020,Hotels,05334002,Aachen,Afrika,August,13,-81.2,22,-86.9,1.7,8,2020-08-01
+2020,Hotels,05334002,Aachen,Afrika,September,18,-79.3,46,-69.3,2.6,9,2020-09-01
+2020,Hotels,05334002,Aachen,Afrika,Oktober,27,-43.8,53,-50.5,2.0,10,2020-10-01
+2020,Hotels,05334002,Aachen,Afrika,November,0,-100.0,0,-100.0,,11,2020-11-01
+2020,Hotels,05334002,Aachen,Afrika,Dezember,2,-97.2,5,-96.3,2.5,12,2020-12-01
+2020,Hotels,05334002,Aachen,Asien,Januar,951,-5.3,1490,3.9,1.6,1,2020-01-01
+2020,Hotels,05334002,Aachen,Asien,Februar,915,-6.1,1201,-11.6,1.3,2,2020-02-01
+2020,Hotels,05334002,Aachen,Asien,März,221,-82.8,298,-83.2,1.3,3,2020-03-01
+2020,Hotels,05334002,Aachen,Asien,April,1,-99.9,4,-99.8,4.0,4,2020-04-01
+2020,Hotels,05334002,Aachen,Asien,Mai,2,-99.8,4,-99.8,2.0,5,2020-05-01
+2020,Hotels,05334002,Aachen,Asien,Juni,29,-97.9,46,-97.9,1.6,6,2020-06-01
+2020,Hotels,05334002,Aachen,Asien,Juli,55,-96.5,86,-96.6,1.6,7,2020-07-01
+2020,Hotels,05334002,Aachen,Asien,August,102,-94.3,185,-95.0,1.8,8,2020-08-01
+2020,Hotels,05334002,Aachen,Asien,September,58,-96.8,89,-97.0,1.5,9,2020-09-01
+2020,Hotels,05334002,Aachen,Asien,Oktober,64,-94.6,102,-94.4,1.6,10,2020-10-01
+2020,Hotels,05334002,Aachen,Asien,November,81,-93.5,113,-94.1,1.4,11,2020-11-01
+2020,Hotels,05334002,Aachen,Asien,Dezember,41,-95.5,48,-96.4,1.2,12,2020-12-01
+2020,Hotels,05334002,Aachen,Amerika,Januar,883,14.5,1292,11.1,1.5,1,2020-01-01
+2020,Hotels,05334002,Aachen,Amerika,Februar,772,-1.3,1104,9.3,1.4,2,2020-02-01
+2020,Hotels,05334002,Aachen,Amerika,März,229,-77.0,404,-71.1,1.8,3,2020-03-01
+2020,Hotels,05334002,Aachen,Amerika,April,48,-94.5,117,-90.7,2.4,4,2020-04-01
+2020,Hotels,05334002,Aachen,Amerika,Mai,97,-91.8,154,-92.5,1.6,5,2020-05-01
+2020,Hotels,05334002,Aachen,Amerika,Juni,132,-90.5,229,-90.1,1.7,6,2020-06-01
+2020,Hotels,05334002,Aachen,Amerika,Juli,261,-82.2,473,-82.6,1.8,7,2020-07-01
+2020,Hotels,05334002,Aachen,Amerika,August,428,-59.4,675,-66.6,1.6,8,2020-08-01
+2020,Hotels,05334002,Aachen,Amerika,September,418,-68.8,667,-67.8,1.6,9,2020-09-01
+2020,Hotels,05334002,Aachen,Amerika,Oktober,322,-77.0,547,-74.6,1.7,10,2020-10-01
+2020,Hotels,05334002,Aachen,Amerika,November,197,-83.3,371,-78.2,1.9,11,2020-11-01
+2020,Hotels,05334002,Aachen,Amerika,Dezember,118,-89.7,191,-89.1,1.6,12,2020-12-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,64,-49.6,118,-41.9,1.8,1,2020-01-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,52,-18.8,83,-13.5,1.6,2,2020-02-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,9,-84.5,15,-78.9,1.7,3,2020-03-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,0,-100.0,0,-100.0,,4,2020-04-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,2,-96.2,2,-97.9,1.0,5,2020-05-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,2,-98.1,3,-98.3,1.5,6,2020-06-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,0,-100.0,0,-100.0,,7,2020-07-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,10,-94.5,16,-94.6,1.6,8,2020-08-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,2,-98.5,2,-99.1,1.0,9,2020-09-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,1,-98.2,1,-98.8,1.0,10,2020-10-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,1,-97.7,1,-98.0,1.0,11,2020-11-01
+2020,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,0,-100.0,0,-100.0,,12,2020-12-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,20,-57.4,20,-60.0,1.0,1,2020-01-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,66,-20.5,103,-7.2,1.6,2,2020-02-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,557,492.6,711,404.3,1.3,3,2020-03-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,3,-97.5,7,-96.2,2.3,4,2020-04-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,7,-98.7,19,-97.4,2.7,5,2020-05-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,36,-83.5,64,-79.6,1.8,6,2020-06-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,57,-76.7,108,-71.9,1.9,7,2020-07-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,51,-72.3,66,-74.3,1.3,8,2020-08-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,1078,294.9,1680,309.8,1.6,9,2020-09-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,69,-88.5,85,-89.7,1.2,10,2020-10-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,4,-97.3,17,-92.3,4.3,11,2020-11-01
+2020,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,135,8.9,219,-3.1,1.6,12,2020-12-01
+2020,Hotels,05334002,Aachen,Insgesamt,Januar,19312,-5.4,28452,-7.6,1.5,1,2020-01-01
+2020,Hotels,05334002,Aachen,Insgesamt,Februar,19640,0.5,29118,2.5,1.5,2,2020-02-01
+2020,Hotels,05334002,Aachen,Insgesamt,März,8533,-64.4,12987,-64.8,1.5,3,2020-03-01
+2020,Hotels,05334002,Aachen,Insgesamt,April,1379,-94.4,2754,-93.1,2.0,4,2020-04-01
+2020,Hotels,05334002,Aachen,Insgesamt,Mai,3964,-86.1,6949,-84.4,1.8,5,2020-05-01
+2020,Hotels,05334002,Aachen,Insgesamt,Juni,9084,-67.5,14594,-67.2,1.6,6,2020-06-01
+2020,Hotels,05334002,Aachen,Insgesamt,Juli,14879,-49.3,24518,-49.9,1.6,7,2020-07-01
+2020,Hotels,05334002,Aachen,Insgesamt,August,19061,-35.0,32376,-35.1,1.7,8,2020-08-01
+2020,Hotels,05334002,Aachen,Insgesamt,September,17572,-41.1,27922,-39.4,1.6,9,2020-09-01
+2020,Hotels,05334002,Aachen,Insgesamt,Oktober,12414,-55.5,21314,-51.0,1.7,10,2020-10-01
+2020,Hotels,05334002,Aachen,Insgesamt,November,4975,-82.3,9418,-77.4,1.9,11,2020-11-01
+2020,Hotels,05334002,Aachen,Insgesamt,Dezember,2966,-89.9,5710,-87.9,1.9,12,2020-12-01
+2021,Hotels,05334002,Aachen,Europa,Januar,3418,-80.3,5703,-77.6,1.7,1,2021-01-01
+2021,Hotels,05334002,Aachen,Europa,Februar,3971,-77.7,6641,-75.0,1.7,2,2021-02-01
+2021,Hotels,05334002,Aachen,Europa,März,5026,-33.0,9469,-18.0,1.9,3,2021-03-01
+2021,Hotels,05334002,Aachen,Europa,April,4114,210.0,7388,181.3,1.8,4,2021-04-01
+2021,Hotels,05334002,Aachen,Europa,Mai,4735,22.9,8290,22.5,1.8,5,2021-05-01
+2021,Hotels,05334002,Aachen,Europa,Juni,9427,6.1,15929,11.8,1.7,6,2021-06-01
+2021,Hotels,05334002,Aachen,Europa,Juli,17476,20.5,29022,21.7,1.7,7,2021-07-01
+2021,Hotels,05334002,Aachen,Europa,August,21249,15.1,36473,16.1,1.7,8,2021-08-01
+2021,Hotels,05334002,Aachen,Europa,September,23412,46.3,37966,49.2,1.6,9,2021-09-01
+2021,Hotels,05334002,Aachen,Europa,Oktober,24820,108.0,41690,103.1,1.7,10,2021-10-01
+2021,Hotels,05334002,Aachen,Europa,November,20472,336.3,33095,271.2,1.6,11,2021-11-01
+2021,Hotels,05334002,Aachen,Europa,Dezember,17286,547.4,29445,461.2,1.7,12,2021-12-01
+2021,Hotels,05334002,Aachen,Afrika,Januar,0,-100.0,0,-100.0,,1,2021-01-01
+2021,Hotels,05334002,Aachen,Afrika,Februar,1,-98.0,1,-98.9,1.0,2,2021-02-01
+2021,Hotels,05334002,Aachen,Afrika,März,4,-60.0,8,-50.0,2.0,3,2021-03-01
+2021,Hotels,05334002,Aachen,Afrika,April,2,,6,,3.0,4,2021-04-01
+2021,Hotels,05334002,Aachen,Afrika,Mai,0,-100.0,0,-100.0,,5,2021-05-01
+2021,Hotels,05334002,Aachen,Afrika,Juni,2,100.0,2,-33.3,1.0,6,2021-06-01
+2021,Hotels,05334002,Aachen,Afrika,Juli,27,800.0,67,857.1,2.5,7,2021-07-01
+2021,Hotels,05334002,Aachen,Afrika,August,11,-15.4,33,50.0,3.0,8,2021-08-01
+2021,Hotels,05334002,Aachen,Afrika,September,44,144.4,82,78.3,1.9,9,2021-09-01
+2021,Hotels,05334002,Aachen,Afrika,Oktober,16,-40.7,37,-30.2,2.3,10,2021-10-01
+2021,Hotels,05334002,Aachen,Afrika,November,34,,44,,1.3,11,2021-11-01
+2021,Hotels,05334002,Aachen,Afrika,Dezember,73,3550.0,131,2520.0,1.8,12,2021-12-01
+2021,Hotels,05334002,Aachen,Asien,Januar,10,-98.9,33,-97.8,3.3,1,2021-01-01
+2021,Hotels,05334002,Aachen,Asien,Februar,25,-97.3,39,-96.8,1.6,2,2021-02-01
+2021,Hotels,05334002,Aachen,Asien,März,55,-75.1,60,-79.9,1.1,3,2021-03-01
+2021,Hotels,05334002,Aachen,Asien,April,76,7500.0,110,2650.0,1.4,4,2021-04-01
+2021,Hotels,05334002,Aachen,Asien,Mai,19,850.0,112,2700.0,5.9,5,2021-05-01
+2021,Hotels,05334002,Aachen,Asien,Juni,47,62.1,190,313.0,4.0,6,2021-06-01
+2021,Hotels,05334002,Aachen,Asien,Juli,351,538.2,584,579.1,1.7,7,2021-07-01
+2021,Hotels,05334002,Aachen,Asien,August,599,487.3,1085,486.5,1.8,8,2021-08-01
+2021,Hotels,05334002,Aachen,Asien,September,718,1137.9,1273,1330.3,1.8,9,2021-09-01
+2021,Hotels,05334002,Aachen,Asien,Oktober,663,935.9,1315,1189.2,2.0,10,2021-10-01
+2021,Hotels,05334002,Aachen,Asien,November,611,654.3,906,701.8,1.5,11,2021-11-01
+2021,Hotels,05334002,Aachen,Asien,Dezember,763,1761.0,1144,2283.3,1.5,12,2021-12-01
+2021,Hotels,05334002,Aachen,Amerika,Januar,111,-87.4,172,-86.7,1.5,1,2021-01-01
+2021,Hotels,05334002,Aachen,Amerika,Februar,179,-76.8,254,-77.0,1.4,2,2021-02-01
+2021,Hotels,05334002,Aachen,Amerika,März,176,-23.1,257,-36.4,1.5,3,2021-03-01
+2021,Hotels,05334002,Aachen,Amerika,April,248,416.7,258,120.5,1.0,4,2021-04-01
+2021,Hotels,05334002,Aachen,Amerika,Mai,139,43.3,234,51.9,1.7,5,2021-05-01
+2021,Hotels,05334002,Aachen,Amerika,Juni,202,53.0,344,50.2,1.7,6,2021-06-01
+2021,Hotels,05334002,Aachen,Amerika,Juli,925,254.4,1188,151.2,1.3,7,2021-07-01
+2021,Hotels,05334002,Aachen,Amerika,August,1072,150.5,1328,96.7,1.2,8,2021-08-01
+2021,Hotels,05334002,Aachen,Amerika,September,981,134.7,1361,104.0,1.4,9,2021-09-01
+2021,Hotels,05334002,Aachen,Amerika,Oktober,829,157.5,1086,98.5,1.3,10,2021-10-01
+2021,Hotels,05334002,Aachen,Amerika,November,679,244.7,879,136.9,1.3,11,2021-11-01
+2021,Hotels,05334002,Aachen,Amerika,Dezember,375,217.8,667,249.2,1.8,12,2021-12-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,0,-100.0,0,-100.0,,1,2021-01-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,0,-100.0,0,-100.0,,2,2021-02-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,0,-100.0,0,-100.0,,3,2021-03-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,0,0.0,0,0.0,,4,2021-04-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,0,-100.0,0,-100.0,,5,2021-05-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,0,-100.0,0,-100.0,,6,2021-06-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,11,,11,,1.0,7,2021-07-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,4,-60.0,11,-31.3,2.8,8,2021-08-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,43,2050.0,57,2750.0,1.3,9,2021-09-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,11,1000.0,16,1500.0,1.5,10,2021-10-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,25,2400.0,28,2700.0,1.1,11,2021-11-01
+2021,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,28,,52,,1.9,12,2021-12-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,105,425.0,122,510.0,1.2,1,2021-01-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,0,-100.0,0,-100.0,,2,2021-02-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,16,-97.1,17,-97.6,1.1,3,2021-03-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,11,266.7,13,85.7,1.2,4,2021-04-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,117,1571.4,126,563.2,1.1,5,2021-05-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,24,-33.3,39,-39.1,1.6,6,2021-06-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,36,-36.8,56,-48.1,1.6,7,2021-07-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,43,-15.7,65,-1.5,1.5,8,2021-08-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,29,-97.3,46,-97.3,1.6,9,2021-09-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,38,-44.9,66,-22.4,1.7,10,2021-10-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,105,2525.0,202,1088.2,1.9,11,2021-11-01
+2021,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,61,-54.8,125,-42.9,2.0,12,2021-12-01
+2021,Hotels,05334002,Aachen,Insgesamt,Januar,3644,-81.1,6030,-78.8,1.7,1,2021-01-01
+2021,Hotels,05334002,Aachen,Insgesamt,Februar,4176,-78.7,6935,-76.2,1.7,2,2021-02-01
+2021,Hotels,05334002,Aachen,Insgesamt,März,5277,-38.2,9811,-24.5,1.9,3,2021-03-01
+2021,Hotels,05334002,Aachen,Insgesamt,April,4451,222.8,7775,182.3,1.7,4,2021-04-01
+2021,Hotels,05334002,Aachen,Insgesamt,Mai,5010,26.4,8762,26.1,1.7,5,2021-05-01
+2021,Hotels,05334002,Aachen,Insgesamt,Juni,9702,6.8,16504,13.1,1.7,6,2021-06-01
+2021,Hotels,05334002,Aachen,Insgesamt,Juli,18826,26.5,30928,26.1,1.6,7,2021-07-01
+2021,Hotels,05334002,Aachen,Insgesamt,August,22978,20.5,38995,20.4,1.7,8,2021-08-01
+2021,Hotels,05334002,Aachen,Insgesamt,September,25227,43.6,40785,46.1,1.6,9,2021-09-01
+2021,Hotels,05334002,Aachen,Insgesamt,Oktober,26377,112.5,44210,107.4,1.7,10,2021-10-01
+2021,Hotels,05334002,Aachen,Insgesamt,November,21926,340.7,35154,273.3,1.6,11,2021-11-01
+2021,Hotels,05334002,Aachen,Insgesamt,Dezember,18586,526.6,31564,452.8,1.7,12,2021-12-01
+2022,Hotels,05334002,Aachen,Europa,Januar,10716,213.5,18515,224.7,1.7,1,2022-01-01
+2022,Hotels,05334002,Aachen,Europa,Februar,12274,209.1,20564,209.7,1.7,2,2022-02-01
+2022,Hotels,05334002,Aachen,Europa,März,17302,244.2,27943,195.1,1.6,3,2022-03-01
+2022,Hotels,05334002,Aachen,Europa,April,21346,418.9,35193,376.4,1.6,4,2022-04-01
+2022,Hotels,05334002,Aachen,Europa,Mai,24225,411.6,38766,367.6,1.6,5,2022-05-01
+2022,Hotels,05334002,Aachen,Europa,Juni,23222,146.3,39109,145.5,1.7,6,2022-06-01
+2022,Hotels,05334002,Aachen,Europa,Juli,25576,46.3,42469,46.3,1.7,7,2022-07-01
+2022,Hotels,05334002,Aachen,Europa,August,25877,21.8,45428,24.6,1.8,8,2022-08-01
+2022,Hotels,05334002,Aachen,Europa,September,24351,4.0,38517,1.5,1.6,9,2022-09-01
+2022,Hotels,05334002,Aachen,Europa,Oktober,22489,-9.4,36947,-11.4,1.6,10,2022-10-01
+2022,Hotels,05334002,Aachen,Europa,November,22388,9.4,35340,6.8,1.6,11,2022-11-01
+2022,Hotels,05334002,Aachen,Europa,Dezember,25639,48.3,42858,45.6,1.7,12,2022-12-01
+2022,Hotels,05334002,Aachen,Afrika,Januar,10,,28,,2.8,1,2022-01-01
+2022,Hotels,05334002,Aachen,Afrika,Februar,12,1100.0,26,2500.0,2.2,2,2022-02-01
+2022,Hotels,05334002,Aachen,Afrika,März,95,2275.0,147,1737.5,1.5,3,2022-03-01
+2022,Hotels,05334002,Aachen,Afrika,April,33,1550.0,63,950.0,1.9,4,2022-04-01
+2022,Hotels,05334002,Aachen,Afrika,Mai,41,,62,,1.5,5,2022-05-01
+2022,Hotels,05334002,Aachen,Afrika,Juni,65,3150.0,97,4750.0,1.5,6,2022-06-01
+2022,Hotels,05334002,Aachen,Afrika,Juli,67,148.1,98,46.3,1.5,7,2022-07-01
+2022,Hotels,05334002,Aachen,Afrika,August,58,427.3,126,281.8,2.2,8,2022-08-01
+2022,Hotels,05334002,Aachen,Afrika,September,93,111.4,148,80.5,1.6,9,2022-09-01
+2022,Hotels,05334002,Aachen,Afrika,Oktober,61,281.3,168,354.1,2.8,10,2022-10-01
+2022,Hotels,05334002,Aachen,Afrika,November,28,-17.6,63,43.2,2.3,11,2022-11-01
+2022,Hotels,05334002,Aachen,Afrika,Dezember,87,19.2,171,30.5,2.0,12,2022-12-01
+2022,Hotels,05334002,Aachen,Asien,Januar,462,4520.0,886,2584.8,1.9,1,2022-01-01
+2022,Hotels,05334002,Aachen,Asien,Februar,433,1632.0,851,2082.1,2.0,2,2022-02-01
+2022,Hotels,05334002,Aachen,Asien,März,700,1172.7,1139,1798.3,1.6,3,2022-03-01
+2022,Hotels,05334002,Aachen,Asien,April,635,735.5,1133,930.0,1.8,4,2022-04-01
+2022,Hotels,05334002,Aachen,Asien,Mai,818,4205.3,1189,961.6,1.5,5,2022-05-01
+2022,Hotels,05334002,Aachen,Asien,Juni,944,1908.5,1430,652.6,1.5,6,2022-06-01
+2022,Hotels,05334002,Aachen,Asien,Juli,1708,386.6,2846,387.3,1.7,7,2022-07-01
+2022,Hotels,05334002,Aachen,Asien,August,1792,199.2,3074,183.3,1.7,8,2022-08-01
+2022,Hotels,05334002,Aachen,Asien,September,1606,123.7,2705,112.5,1.7,9,2022-09-01
+2022,Hotels,05334002,Aachen,Asien,Oktober,1209,82.4,2417,83.8,2.0,10,2022-10-01
+2022,Hotels,05334002,Aachen,Asien,November,796,30.3,1603,76.9,2.0,11,2022-11-01
+2022,Hotels,05334002,Aachen,Asien,Dezember,650,-14.8,1216,6.3,1.9,12,2022-12-01
+2022,Hotels,05334002,Aachen,Amerika,Januar,299,169.4,511,197.1,1.7,1,2022-01-01
+2022,Hotels,05334002,Aachen,Amerika,Februar,354,97.8,532,109.4,1.5,2,2022-02-01
+2022,Hotels,05334002,Aachen,Amerika,März,535,204.0,710,176.3,1.3,3,2022-03-01
+2022,Hotels,05334002,Aachen,Amerika,April,692,179.0,918,255.8,1.3,4,2022-04-01
+2022,Hotels,05334002,Aachen,Amerika,Mai,985,608.6,1368,484.6,1.4,5,2022-05-01
+2022,Hotels,05334002,Aachen,Amerika,Juni,1608,696.0,2326,576.2,1.4,6,2022-06-01
+2022,Hotels,05334002,Aachen,Amerika,Juli,994,7.5,1652,39.1,1.7,7,2022-07-01
+2022,Hotels,05334002,Aachen,Amerika,August,895,-16.5,1422,7.1,1.6,8,2022-08-01
+2022,Hotels,05334002,Aachen,Amerika,September,1136,15.8,1702,25.1,1.5,9,2022-09-01
+2022,Hotels,05334002,Aachen,Amerika,Oktober,971,17.1,1638,50.8,1.7,10,2022-10-01
+2022,Hotels,05334002,Aachen,Amerika,November,902,32.8,1329,51.2,1.5,11,2022-11-01
+2022,Hotels,05334002,Aachen,Amerika,Dezember,801,113.6,1379,106.7,1.7,12,2022-12-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,4,,8,,2.0,1,2022-01-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,7,,11,,1.6,2,2022-02-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,28,,34,,1.2,3,2022-03-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,38,,63,,1.7,4,2022-04-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,36,,43,,1.2,5,2022-05-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,188,,287,,1.5,6,2022-06-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,88,700.0,181,1545.5,2.1,7,2022-07-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,39,875.0,57,418.2,1.5,8,2022-08-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,79,83.7,120,110.5,1.5,9,2022-09-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,103,836.4,136,750.0,1.3,10,2022-10-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,29,16.0,40,42.9,1.4,11,2022-11-01
+2022,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,74,164.3,130,150.0,1.8,12,2022-12-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,38,-63.8,67,-45.1,1.8,1,2022-01-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,50,,103,,2.1,2,2022-02-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,69,331.3,151,788.2,2.2,3,2022-03-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,113,927.3,435,3246.2,3.8,4,2022-04-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,115,-1.7,223,77.0,1.9,5,2022-05-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,142,491.7,257,559.0,1.8,6,2022-06-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,110,205.6,178,217.9,1.6,7,2022-07-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,153,255.8,244,275.4,1.6,8,2022-08-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,141,386.2,238,417.4,1.7,9,2022-09-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,133,250.0,253,283.3,1.9,10,2022-10-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,153,45.7,301,49.0,2.0,11,2022-11-01
+2022,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,89,45.9,168,34.4,1.9,12,2022-12-01
+2022,Hotels,05334002,Aachen,Insgesamt,Januar,11529,216.4,20015,231.9,1.7,1,2022-01-01
+2022,Hotels,05334002,Aachen,Insgesamt,Februar,13130,214.4,22087,218.5,1.7,2,2022-02-01
+2022,Hotels,05334002,Aachen,Insgesamt,März,18729,254.9,30124,207.0,1.6,3,2022-03-01
+2022,Hotels,05334002,Aachen,Insgesamt,April,22857,413.5,37805,386.2,1.7,4,2022-04-01
+2022,Hotels,05334002,Aachen,Insgesamt,Mai,26220,423.4,41651,375.4,1.6,5,2022-05-01
+2022,Hotels,05334002,Aachen,Insgesamt,Juni,26169,169.7,43506,163.6,1.7,6,2022-06-01
+2022,Hotels,05334002,Aachen,Insgesamt,Juli,28543,51.6,47424,53.3,1.7,7,2022-07-01
+2022,Hotels,05334002,Aachen,Insgesamt,August,28814,25.4,50351,29.1,1.7,8,2022-08-01
+2022,Hotels,05334002,Aachen,Insgesamt,September,27406,8.6,43430,6.5,1.6,9,2022-09-01
+2022,Hotels,05334002,Aachen,Insgesamt,Oktober,24966,-5.3,41559,-6.0,1.7,10,2022-10-01
+2022,Hotels,05334002,Aachen,Insgesamt,November,24296,10.8,38676,10.0,1.6,11,2022-11-01
+2022,Hotels,05334002,Aachen,Insgesamt,Dezember,27340,47.1,45922,45.5,1.7,12,2022-12-01
+2023,Hotels,05334002,Aachen,Europa,Januar,16682,55.7,26575,43.5,1.6,1,2023-01-01
+2023,Hotels,05334002,Aachen,Europa,Februar,16333,33.1,25874,25.8,1.6,2,2023-02-01
+2023,Hotels,05334002,Aachen,Europa,März,20615,19.1,32605,16.7,1.6,3,2023-03-01
+2023,Hotels,05334002,Aachen,Europa,April,22653,6.1,36739,4.4,1.6,4,2023-04-01
+2023,Hotels,05334002,Aachen,Europa,Mai,24744,2.1,39287,1.3,1.6,5,2023-05-01
+2023,Hotels,05334002,Aachen,Europa,Juni,20363,-12.3,32201,-17.7,1.6,6,2023-06-01
+2023,Hotels,05334002,Aachen,Europa,Juli,23056,-9.9,39095,-7.9,1.7,7,2023-07-01
+2023,Hotels,05334002,Aachen,Europa,August,24881,-3.8,38759,-14.7,1.6,8,2023-08-01
+2023,Hotels,05334002,Aachen,Europa,September,24549,0.8,39494,2.5,1.6,9,2023-09-01
+2023,Hotels,05334002,Aachen,Europa,Oktober,20953,-6.8,34306,-7.1,1.6,10,2023-10-01
+2023,Hotels,05334002,Aachen,Europa,November,24209,8.1,36573,3.5,1.5,11,2023-11-01
+2023,Hotels,05334002,Aachen,Europa,Dezember,26578,3.7,44427,3.7,1.7,12,2023-12-01
+2023,Hotels,05334002,Aachen,Afrika,Januar,45,350.0,85,203.6,1.9,1,2023-01-01
+2023,Hotels,05334002,Aachen,Afrika,Februar,51,325.0,88,238.5,1.7,2,2023-02-01
+2023,Hotels,05334002,Aachen,Afrika,März,61,-35.8,89,-39.5,1.5,3,2023-03-01
+2023,Hotels,05334002,Aachen,Afrika,April,49,48.5,71,12.7,1.4,4,2023-04-01
+2023,Hotels,05334002,Aachen,Afrika,Mai,48,17.1,75,21.0,1.6,5,2023-05-01
+2023,Hotels,05334002,Aachen,Afrika,Juni,40,-38.5,80,-17.5,2.0,6,2023-06-01
+2023,Hotels,05334002,Aachen,Afrika,Juli,57,-14.9,110,12.2,1.9,7,2023-07-01
+2023,Hotels,05334002,Aachen,Afrika,August,42,-27.6,156,23.8,3.7,8,2023-08-01
+2023,Hotels,05334002,Aachen,Afrika,September,60,-35.5,110,-25.7,1.8,9,2023-09-01
+2023,Hotels,05334002,Aachen,Afrika,Oktober,49,-19.7,99,-41.1,2.0,10,2023-10-01
+2023,Hotels,05334002,Aachen,Afrika,November,46,64.3,73,15.9,1.6,11,2023-11-01
+2023,Hotels,05334002,Aachen,Afrika,Dezember,55,-36.8,107,-37.4,1.9,12,2023-12-01
+2023,Hotels,05334002,Aachen,Asien,Januar,620,34.2,1084,22.3,1.7,1,2023-01-01
+2023,Hotels,05334002,Aachen,Asien,Februar,902,108.3,1400,64.5,1.6,2,2023-02-01
+2023,Hotels,05334002,Aachen,Asien,März,831,18.7,1271,11.6,1.5,3,2023-03-01
+2023,Hotels,05334002,Aachen,Asien,April,1021,60.8,1609,42.0,1.6,4,2023-04-01
+2023,Hotels,05334002,Aachen,Asien,Mai,719,-12.1,1209,1.7,1.7,5,2023-05-01
+2023,Hotels,05334002,Aachen,Asien,Juni,453,-52.0,962,-32.7,2.1,6,2023-06-01
+2023,Hotels,05334002,Aachen,Asien,Juli,827,-51.6,1479,-48.0,1.8,7,2023-07-01
+2023,Hotels,05334002,Aachen,Asien,August,1141,-36.3,2065,-32.8,1.8,8,2023-08-01
+2023,Hotels,05334002,Aachen,Asien,September,1635,1.8,2990,10.5,1.8,9,2023-09-01
+2023,Hotels,05334002,Aachen,Asien,Oktober,952,-21.3,1918,-20.6,2.0,10,2023-10-01
+2023,Hotels,05334002,Aachen,Asien,November,1040,30.7,1499,-6.5,1.4,11,2023-11-01
+2023,Hotels,05334002,Aachen,Asien,Dezember,722,11.1,1197,-1.6,1.7,12,2023-12-01
+2023,Hotels,05334002,Aachen,Amerika,Januar,510,70.6,832,62.8,1.6,1,2023-01-01
+2023,Hotels,05334002,Aachen,Amerika,Februar,532,50.3,683,28.4,1.3,2,2023-02-01
+2023,Hotels,05334002,Aachen,Amerika,März,1216,127.3,1553,118.7,1.3,3,2023-03-01
+2023,Hotels,05334002,Aachen,Amerika,April,795,14.9,1153,25.6,1.5,4,2023-04-01
+2023,Hotels,05334002,Aachen,Amerika,Mai,1127,14.4,1783,30.3,1.6,5,2023-05-01
+2023,Hotels,05334002,Aachen,Amerika,Juni,1049,-34.8,1980,-14.9,1.9,6,2023-06-01
+2023,Hotels,05334002,Aachen,Amerika,Juli,944,-5.0,1660,0.5,1.8,7,2023-07-01
+2023,Hotels,05334002,Aachen,Amerika,August,819,-8.5,1157,-18.6,1.4,8,2023-08-01
+2023,Hotels,05334002,Aachen,Amerika,September,1409,24.0,2216,30.2,1.6,9,2023-09-01
+2023,Hotels,05334002,Aachen,Amerika,Oktober,885,-8.9,1301,-20.6,1.5,10,2023-10-01
+2023,Hotels,05334002,Aachen,Amerika,November,777,-13.9,1097,-17.5,1.4,11,2023-11-01
+2023,Hotels,05334002,Aachen,Amerika,Dezember,795,-0.7,1273,-7.7,1.6,12,2023-12-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,38,850.0,44,450.0,1.2,1,2023-01-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,32,357.1,75,581.8,2.3,2,2023-02-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,56,100.0,64,88.2,1.1,3,2023-03-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,70,84.2,141,123.8,2.0,4,2023-04-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,68,88.9,126,193.0,1.9,5,2023-05-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,192,2.1,629,119.2,3.3,6,2023-06-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,112,27.3,357,97.2,3.2,7,2023-07-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,91,133.3,181,217.5,2.0,8,2023-08-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,92,16.5,148,23.3,1.6,9,2023-09-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,33,-68.0,66,-51.5,2.0,10,2023-10-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,49,69.0,69,72.5,1.4,11,2023-11-01
+2023,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,51,-31.1,84,-35.4,1.6,12,2023-12-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,42,10.5,61,-9.0,1.5,1,2023-01-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,388,676.0,476,362.1,1.2,2,2023-02-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,102,47.8,198,31.1,1.9,3,2023-03-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,507,348.7,823,89.2,1.6,4,2023-04-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,601,422.6,1046,369.1,1.7,5,2023-05-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,1084,663.4,2499,872.4,2.3,6,2023-06-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,1827,1560.9,3715,1987.1,2.0,7,2023-07-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,2048,1238.6,3826,1468.0,1.9,8,2023-08-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,258,83.0,369,55.0,1.4,9,2023-09-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,1033,676.7,2177,760.5,2.1,10,2023-10-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,224,46.4,268,-11.0,1.2,11,2023-11-01
+2023,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,1257,1312.4,2053,1122.0,1.6,12,2023-12-01
+2023,Hotels,05334002,Aachen,Insgesamt,Januar,17937,55.6,28681,43.3,1.6,1,2023-01-01
+2023,Hotels,05334002,Aachen,Insgesamt,Februar,18238,38.9,28596,29.5,1.6,2,2023-02-01
+2023,Hotels,05334002,Aachen,Insgesamt,März,22881,22.2,35780,18.8,1.6,3,2023-03-01
+2023,Hotels,05334002,Aachen,Insgesamt,April,25095,9.8,40536,7.2,1.6,4,2023-04-01
+2023,Hotels,05334002,Aachen,Insgesamt,Mai,27307,4.1,43526,4.5,1.6,5,2023-05-01
+2023,Hotels,05334002,Aachen,Insgesamt,Juni,23181,-11.4,38351,-11.8,1.7,6,2023-06-01
+2023,Hotels,05334002,Aachen,Insgesamt,Juli,26823,-6.0,46416,-2.1,1.7,7,2023-07-01
+2023,Hotels,05334002,Aachen,Insgesamt,August,29022,0.7,46144,-8.4,1.6,8,2023-08-01
+2023,Hotels,05334002,Aachen,Insgesamt,September,28003,2.2,45327,4.4,1.6,9,2023-09-01
+2023,Hotels,05334002,Aachen,Insgesamt,Oktober,23905,-4.2,39867,-4.1,1.7,10,2023-10-01
+2023,Hotels,05334002,Aachen,Insgesamt,November,26345,8.4,39579,2.3,1.5,11,2023-11-01
+2023,Hotels,05334002,Aachen,Insgesamt,Dezember,29458,7.7,49141,7.0,1.7,12,2023-12-01
+2024,Hotels,05334002,Aachen,Europa,Januar,16513,-1.0,25963,-2.3,1.6,1,2024-01-01
+2024,Hotels,05334002,Aachen,Europa,Februar,16503,1.0,26251,1.5,1.6,2,2024-02-01
+2024,Hotels,05334002,Aachen,Europa,März,19811,-3.9,32853,0.8,1.7,3,2024-03-01
+2024,Hotels,05334002,Aachen,Europa,April,23710,4.7,36359,-1.0,1.5,4,2024-04-01
+2024,Hotels,05334002,Aachen,Europa,Mai,24654,-0.4,40337,2.7,1.6,5,2024-05-01
+2024,Hotels,05334002,Aachen,Europa,Juni,24338,19.5,38634,20.0,1.6,6,2024-06-01
+2024,Hotels,05334002,Aachen,Europa,Juli,24644,6.9,41356,5.8,1.7,7,2024-07-01
+2024,Hotels,05334002,Aachen,Europa,August,26334,5.8,43389,11.9,1.6,8,2024-08-01
+2024,Hotels,05334002,Aachen,Europa,September,23595,-3.9,36667,-7.2,1.6,9,2024-09-01
+2024,Hotels,05334002,Aachen,Europa,Oktober,24183,15.4,39484,15.1,1.6,10,2024-10-01
+2024,Hotels,05334002,Aachen,Europa,November,25201,4.1,38908,6.4,1.5,11,2024-11-01
+2024,Hotels,05334002,Aachen,Europa,Dezember,27353,2.9,44874,1.0,1.6,12,2024-12-01
+2024,Hotels,05334002,Aachen,Afrika,Januar,76,68.9,128,50.6,1.7,1,2024-01-01
+2024,Hotels,05334002,Aachen,Afrika,Februar,42,-17.6,66,-25.0,1.6,2,2024-02-01
+2024,Hotels,05334002,Aachen,Afrika,März,46,-24.6,74,-16.9,1.6,3,2024-03-01
+2024,Hotels,05334002,Aachen,Afrika,April,32,-34.7,71,0.0,2.2,4,2024-04-01
+2024,Hotels,05334002,Aachen,Afrika,Mai,64,33.3,97,29.3,1.5,5,2024-05-01
+2024,Hotels,05334002,Aachen,Afrika,Juni,62,55.0,96,20.0,1.5,6,2024-06-01
+2024,Hotels,05334002,Aachen,Afrika,Juli,71,24.6,171,55.5,2.4,7,2024-07-01
+2024,Hotels,05334002,Aachen,Afrika,August,66,57.1,136,-12.8,2.1,8,2024-08-01
+2024,Hotels,05334002,Aachen,Afrika,September,106,76.7,172,56.4,1.6,9,2024-09-01
+2024,Hotels,05334002,Aachen,Afrika,Oktober,50,2.0,89,-10.1,1.8,10,2024-10-01
+2024,Hotels,05334002,Aachen,Afrika,November,55,19.6,110,50.7,2.0,11,2024-11-01
+2024,Hotels,05334002,Aachen,Afrika,Dezember,74,34.5,106,-0.9,1.4,12,2024-12-01
+2024,Hotels,05334002,Aachen,Asien,Januar,720,16.1,1171,8.0,1.6,1,2024-01-01
+2024,Hotels,05334002,Aachen,Asien,Februar,807,-10.5,1474,5.3,1.8,2,2024-02-01
+2024,Hotels,05334002,Aachen,Asien,März,926,11.4,1258,-1.0,1.4,3,2024-03-01
+2024,Hotels,05334002,Aachen,Asien,April,834,-18.3,1266,-21.3,1.5,4,2024-04-01
+2024,Hotels,05334002,Aachen,Asien,Mai,1027,42.8,1417,17.2,1.4,5,2024-05-01
+2024,Hotels,05334002,Aachen,Asien,Juni,1317,190.7,2087,116.9,1.6,6,2024-06-01
+2024,Hotels,05334002,Aachen,Asien,Juli,1163,40.6,1866,26.2,1.6,7,2024-07-01
+2024,Hotels,05334002,Aachen,Asien,August,1330,16.6,2356,14.1,1.8,8,2024-08-01
+2024,Hotels,05334002,Aachen,Asien,September,1936,18.4,3208,7.3,1.7,9,2024-09-01
+2024,Hotels,05334002,Aachen,Asien,Oktober,1282,34.7,1984,3.4,1.5,10,2024-10-01
+2024,Hotels,05334002,Aachen,Asien,November,1380,32.7,1940,29.4,1.4,11,2024-11-01
+2024,Hotels,05334002,Aachen,Asien,Dezember,795,10.1,1453,21.4,1.8,12,2024-12-01
+2024,Hotels,05334002,Aachen,Amerika,Januar,557,9.2,794,-4.6,1.4,1,2024-01-01
+2024,Hotels,05334002,Aachen,Amerika,Februar,447,-16.0,738,8.1,1.7,2,2024-02-01
+2024,Hotels,05334002,Aachen,Amerika,März,490,-59.7,653,-58.0,1.3,3,2024-03-01
+2024,Hotels,05334002,Aachen,Amerika,April,1030,29.6,1355,17.5,1.3,4,2024-04-01
+2024,Hotels,05334002,Aachen,Amerika,Mai,945,-16.1,1305,-26.8,1.4,5,2024-05-01
+2024,Hotels,05334002,Aachen,Amerika,Juni,1337,27.5,1981,0.1,1.5,6,2024-06-01
+2024,Hotels,05334002,Aachen,Amerika,Juli,1853,96.3,2868,72.8,1.5,7,2024-07-01
+2024,Hotels,05334002,Aachen,Amerika,August,923,12.7,1342,16.0,1.5,8,2024-08-01
+2024,Hotels,05334002,Aachen,Amerika,September,1226,-13.0,1901,-14.2,1.6,9,2024-09-01
+2024,Hotels,05334002,Aachen,Amerika,Oktober,1025,15.8,1616,24.2,1.6,10,2024-10-01
+2024,Hotels,05334002,Aachen,Amerika,November,915,17.8,1336,21.8,1.5,11,2024-11-01
+2024,Hotels,05334002,Aachen,Amerika,Dezember,1137,43.0,1738,36.5,1.5,12,2024-12-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,55,44.7,88,100.0,1.6,1,2024-01-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,30,-6.3,40,-46.7,1.3,2,2024-02-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,35,-37.5,61,-4.7,1.7,3,2024-03-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,50,-28.6,88,-37.6,1.8,4,2024-04-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,69,1.5,110,-12.7,1.6,5,2024-05-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,175,-8.9,240,-61.8,1.4,6,2024-06-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,262,133.9,700,96.1,2.7,7,2024-07-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,47,-48.4,93,-48.6,2.0,8,2024-08-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,97,5.4,146,-1.4,1.5,9,2024-09-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,71,115.2,134,103.0,1.9,10,2024-10-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,47,-4.1,73,5.8,1.6,11,2024-11-01
+2024,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,82,60.8,132,57.1,1.6,12,2024-12-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,150,257.1,233,282.0,1.6,1,2024-01-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,316,-18.6,552,16.0,1.7,2,2024-02-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,143,40.2,194,-2.0,1.4,3,2024-03-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,185,-63.5,253,-69.3,1.4,4,2024-04-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,307,-48.9,436,-58.3,1.4,5,2024-05-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,787,-27.4,1174,-53.0,1.5,6,2024-06-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,277,-84.8,427,-88.5,1.5,7,2024-07-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,1642,-19.8,2407,-37.1,1.5,8,2024-08-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,255,-1.2,387,4.9,1.5,9,2024-09-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,896,-13.3,1456,-33.1,1.6,10,2024-10-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,1534,584.8,2389,791.4,1.6,11,2024-11-01
+2024,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,872,-30.6,1521,-25.9,1.7,12,2024-12-01
+2024,Hotels,05334002,Aachen,Insgesamt,Januar,18071,0.7,28377,-1.1,1.6,1,2024-01-01
+2024,Hotels,05334002,Aachen,Insgesamt,Februar,18145,-0.5,29121,1.8,1.6,2,2024-02-01
+2024,Hotels,05334002,Aachen,Insgesamt,März,21451,-6.2,35093,-1.9,1.6,3,2024-03-01
+2024,Hotels,05334002,Aachen,Insgesamt,April,25841,3.0,39392,-2.8,1.5,4,2024-04-01
+2024,Hotels,05334002,Aachen,Insgesamt,Mai,27066,-0.9,43702,0.4,1.6,5,2024-05-01
+2024,Hotels,05334002,Aachen,Insgesamt,Juni,28016,20.9,44212,15.3,1.6,6,2024-06-01
+2024,Hotels,05334002,Aachen,Insgesamt,Juli,28270,5.4,47388,2.1,1.7,7,2024-07-01
+2024,Hotels,05334002,Aachen,Insgesamt,August,30342,4.5,49723,7.8,1.6,8,2024-08-01
+2024,Hotels,05334002,Aachen,Insgesamt,September,27215,-2.8,42481,-6.3,1.6,9,2024-09-01
+2024,Hotels,05334002,Aachen,Insgesamt,Oktober,27507,15.1,44763,12.3,1.6,10,2024-10-01
+2024,Hotels,05334002,Aachen,Insgesamt,November,29132,10.6,44756,13.1,1.5,11,2024-11-01
+2024,Hotels,05334002,Aachen,Insgesamt,Dezember,30313,2.9,49824,1.4,1.6,12,2024-12-01
+2025,Hotels,05334002,Aachen,Europa,Januar,16814,1.8,26334,1.4,1.6,1,2025-01-01
+2025,Hotels,05334002,Aachen,Europa,Februar,16966,2.8,26647,1.5,1.6,2,2025-02-01
+2025,Hotels,05334002,Aachen,Europa,März,21871,10.4,34600,5.3,1.6,3,2025-03-01
+2025,Hotels,05334002,Aachen,Europa,April,26014,9.7,42191,16.0,1.6,4,2025-04-01
+2025,Hotels,05334002,Aachen,Europa,Mai,29206,18.5,46759,15.9,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,Europa,Juni,24563,0.9,39157,1.4,1.6,6,2025-06-01
+2025,Hotels,05334002,Aachen,Europa,Juli,27810,12.8,46663,12.8,1.7,7,2025-07-01
+2025,Hotels,05334002,Aachen,Europa,August,27596,4.8,45603,5.1,1.7,8,2025-08-01
+2025,Hotels,05334002,Aachen,Europa,September,26007,10.2,40403,10.2,1.6,9,2025-09-01
+2025,Hotels,05334002,Aachen,Europa,Oktober,26957,11.5,43157,9.3,1.6,10,2025-10-01
+2025,Hotels,05334002,Aachen,Europa,November,26203,4.0,39949,2.7,1.5,11,2025-11-01
+2025,Hotels,05334002,Aachen,Europa,Dezember,31973,16.9,52433,16.8,1.6,12,2025-12-01
+2025,Hotels,05334002,Aachen,Afrika,Januar,60,-21.1,103,-19.5,1.7,1,2025-01-01
+2025,Hotels,05334002,Aachen,Afrika,Februar,57,35.7,93,40.9,1.6,2,2025-02-01
+2025,Hotels,05334002,Aachen,Afrika,März,57,23.9,129,74.3,2.3,3,2025-03-01
+2025,Hotels,05334002,Aachen,Afrika,April,44,37.5,118,66.2,2.7,4,2025-04-01
+2025,Hotels,05334002,Aachen,Afrika,Mai,99,54.7,144,48.5,1.5,5,2025-05-01
+2025,Hotels,05334002,Aachen,Afrika,Juni,84,35.5,166,72.9,2.0,6,2025-06-01
+2025,Hotels,05334002,Aachen,Afrika,Juli,61,-14.1,103,-39.8,1.7,7,2025-07-01
+2025,Hotels,05334002,Aachen,Afrika,August,49,-25.8,87,-36.0,1.8,8,2025-08-01
+2025,Hotels,05334002,Aachen,Afrika,September,149,40.6,253,47.1,1.7,9,2025-09-01
+2025,Hotels,05334002,Aachen,Afrika,Oktober,110,120.0,177,98.9,1.6,10,2025-10-01
+2025,Hotels,05334002,Aachen,Afrika,November,68,23.6,95,-13.6,1.4,11,2025-11-01
+2025,Hotels,05334002,Aachen,Afrika,Dezember,57,-23.0,121,14.2,2.1,12,2025-12-01
+2025,Hotels,05334002,Aachen,Asien,Januar,599,-16.8,1074,-8.3,1.8,1,2025-01-01
+2025,Hotels,05334002,Aachen,Asien,Februar,796,-1.4,1095,-25.7,1.4,2,2025-02-01
+2025,Hotels,05334002,Aachen,Asien,März,718,-22.5,1048,-16.7,1.5,3,2025-03-01
+2025,Hotels,05334002,Aachen,Asien,April,1358,62.8,2043,61.4,1.5,4,2025-04-01
+2025,Hotels,05334002,Aachen,Asien,Mai,1058,3.0,1721,21.5,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,Asien,Juni,1197,-9.1,1726,-17.3,1.4,6,2025-06-01
+2025,Hotels,05334002,Aachen,Asien,Juli,1373,18.1,2258,21.0,1.6,7,2025-07-01
+2025,Hotels,05334002,Aachen,Asien,August,1693,27.3,3150,33.7,1.9,8,2025-08-01
+2025,Hotels,05334002,Aachen,Asien,September,1784,-7.9,2915,-9.1,1.6,9,2025-09-01
+2025,Hotels,05334002,Aachen,Asien,Oktober,1584,23.6,2451,23.5,1.5,10,2025-10-01
+2025,Hotels,05334002,Aachen,Asien,November,1418,2.8,1960,1.0,1.4,11,2025-11-01
+2025,Hotels,05334002,Aachen,Asien,Dezember,1110,39.6,2007,38.1,1.8,12,2025-12-01
+2025,Hotels,05334002,Aachen,Amerika,Januar,885,58.9,1196,50.6,1.4,1,2025-01-01
+2025,Hotels,05334002,Aachen,Amerika,Februar,679,51.9,891,20.7,1.3,2,2025-02-01
+2025,Hotels,05334002,Aachen,Amerika,März,932,90.2,1260,93.0,1.4,3,2025-03-01
+2025,Hotels,05334002,Aachen,Amerika,April,1020,-1.0,1435,5.9,1.4,4,2025-04-01
+2025,Hotels,05334002,Aachen,Amerika,Mai,1156,22.3,1872,43.4,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,Amerika,Juni,1319,-1.3,2309,16.6,1.8,6,2025-06-01
+2025,Hotels,05334002,Aachen,Amerika,Juli,1739,-6.2,3428,19.5,2.0,7,2025-07-01
+2025,Hotels,05334002,Aachen,Amerika,August,992,7.5,1787,33.2,1.8,8,2025-08-01
+2025,Hotels,05334002,Aachen,Amerika,September,1423,16.1,2443,28.5,1.7,9,2025-09-01
+2025,Hotels,05334002,Aachen,Amerika,Oktober,1367,33.4,2242,38.7,1.6,10,2025-10-01
+2025,Hotels,05334002,Aachen,Amerika,November,896,-2.1,1519,13.7,1.7,11,2025-11-01
+2025,Hotels,05334002,Aachen,Amerika,Dezember,1188,4.5,2142,23.2,1.8,12,2025-12-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Januar,34,-38.2,79,-10.2,2.3,1,2025-01-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Februar,24,-20.0,28,-30.0,1.2,2,2025-02-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",März,35,0.0,52,-14.8,1.5,3,2025-03-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",April,140,180.0,217,146.6,1.6,4,2025-04-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Mai,87,26.1,143,30.0,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juni,171,-2.3,268,11.7,1.6,6,2025-06-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Juli,304,16.0,812,16.0,2.7,7,2025-07-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",August,97,106.4,152,63.4,1.6,8,2025-08-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",September,109,12.4,152,4.1,1.4,9,2025-09-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Oktober,67,-5.6,117,-12.7,1.7,10,2025-10-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",November,63,34.0,103,41.1,1.6,11,2025-11-01
+2025,Hotels,05334002,Aachen,"Australien, Neuseeland und Ozeanien",Dezember,59,-28.0,118,-10.6,2.0,12,2025-12-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Januar,416,177.3,599,157.1,1.4,1,2025-01-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Februar,1361,330.7,2063,273.7,1.5,2,2025-02-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",März,216,51.0,355,83.0,1.6,3,2025-03-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",April,225,21.6,363,43.5,1.6,4,2025-04-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Mai,1159,277.5,1806,314.2,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juni,979,24.4,1569,33.6,1.6,6,2025-06-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Juli,636,129.6,1175,175.2,1.8,7,2025-07-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",August,1077,-34.4,1979,-17.8,1.8,8,2025-08-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",September,1001,292.5,1816,369.3,1.8,9,2025-09-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Oktober,1114,24.3,1813,24.5,1.6,10,2025-10-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",November,965,-37.1,1635,-31.6,1.7,11,2025-11-01
+2025,Hotels,05334002,Aachen,"Staatenlos, unbekannt, ungeklärt, ohne Angabe",Dezember,721,-17.3,1350,-11.2,1.9,12,2025-12-01
+2025,Hotels,05334002,Aachen,Insgesamt,Januar,18808,4.1,29385,3.6,1.6,1,2025-01-01
+2025,Hotels,05334002,Aachen,Insgesamt,Februar,19883,9.6,30817,5.8,1.5,2,2025-02-01
+2025,Hotels,05334002,Aachen,Insgesamt,März,23829,11.1,37444,6.7,1.6,3,2025-03-01
+2025,Hotels,05334002,Aachen,Insgesamt,April,28801,11.5,46367,17.7,1.6,4,2025-04-01
+2025,Hotels,05334002,Aachen,Insgesamt,Mai,32765,21.1,52445,20.0,1.6,5,2025-05-01
+2025,Hotels,05334002,Aachen,Insgesamt,Juni,28313,1.1,45195,2.2,1.6,6,2025-06-01
+2025,Hotels,05334002,Aachen,Insgesamt,Juli,31923,12.9,54439,14.9,1.7,7,2025-07-01
+2025,Hotels,05334002,Aachen,Insgesamt,August,31504,3.8,52758,6.1,1.7,8,2025-08-01
+2025,Hotels,05334002,Aachen,Insgesamt,September,30473,12.0,47982,12.9,1.6,9,2025-09-01
+2025,Hotels,05334002,Aachen,Insgesamt,Oktober,31199,13.4,49957,11.6,1.6,10,2025-10-01
+2025,Hotels,05334002,Aachen,Insgesamt,November,29613,1.7,45261,1.1,1.5,11,2025-11-01
+2025,Hotels,05334002,Aachen,Insgesamt,Dezember,35108,15.8,58171,16.8,1.7,12,2025-12-01
